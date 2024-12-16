@@ -1,4 +1,8 @@
 aaa
 bbb
 ccc
+<<<<<<< HEAD
 main2upd
+=======
+main2upd
+>>>>>>> remotes/origin/main2
